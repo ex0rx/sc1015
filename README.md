@@ -28,3 +28,6 @@ Concepts about Precision, Recall, and F1 Score
 
 ## References
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download
+https://www.world-stroke.org/news-and-blog/news/sso-spotlight-singapore#:~:text=Stroke%20is%20Singapore's%20fourth%20leading,life%20lost%20due%20to%20disability.&text=The%20incidence%20is%201.8%2F1000,adults%20aged%20above%2050%20years.
+
+
