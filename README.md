@@ -1,8 +1,11 @@
 # SC1015: Mini Project - Predicting Stroke
 School of Computer Science and Engineering
 Nanyang Technological University
+
 Lab: A133
+
 Group: 6
+
 Members:
   1. Ang Jia Wei Leon - @ex0rx
   2. Teo Zhi Hao - @zh3444
