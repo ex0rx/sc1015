@@ -14,8 +14,19 @@ Members:
 ## Description
 This repository contains all the Jupyter Notebooks, datasets, video presentations, and the source materials/references we have used and created as part of the Mini Project for SC1015: Introduction to Data Science and AI.
 
+For detailed walkthrough, please view the source code in order from:
+1. Data Preparation and EDA
+2. Logistic Regression
+3. Random Forest
+4. Artificial Neural Network
+
+## Contributors
+@ex0rx - EDA, Artificial Neural Network
+@zh_3444 - Data Preparation, EDA, Random Forest
+@min-ze - Logistic Regression
+
 This README briefly highlights what we have accomplished in this project.
-## Problem statement
+## Problem Definition
 How do we accurately predict stroke using the dataset? Which model is best for doing so?
 
 ## Models used
@@ -25,7 +36,7 @@ How do we accurately predict stroke using the dataset? Which model is best for d
   
 ## Conclusion
 
-## Lessons taken away from this project
+## What did we learn from this project?
 * Handling imbalanced datasets using resampling methods
 * Neural Networks, MLPClassifier from sklearn
 * Random Forest
