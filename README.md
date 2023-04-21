@@ -17,7 +17,7 @@ This repository contains all the Jupyter Notebooks, datasets, video presentation
 For detailed walkthrough, please view the source code in order from:
 1. Data Preparation and EDA
 2. Logistic Regression
-3. Random Forest
+3. Random Forest (https://github.com/ex0rx/sc1015/blob/main/A133_Group6_RF.ipynb)
 4. Artificial Neural Network
 
 ## Contributors
