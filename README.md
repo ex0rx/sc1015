@@ -4,19 +4,22 @@ Nanyang Technological University
 Lab: A133
 Group: 6
 Members:
-  1. Ang Jia Wei Leon (@ex0rx)
-  2. Teo Zhi Hao
-  3. Teh Min Ze
+  1. Ang Jia Wei Leon - @ex0rx
+  2. Teo Zhi Hao - @zh3444
+  3. Teh Min Ze - @min-ze
+  
 ## Description
 This repository contains all the Jupyter Notebooks, datasets, video presentations, and the source materials/references we have used and created as part of the Mini Project for SC1015: Introduction to Data Science and AI.
 
 This README briefly highlights what we have accomplished in this project.
 ## Problem statement
 How do we accurately predict stroke using the dataset? Which model is best for doing so?
+
 ## Models used
   1. Random Forest
   2. Logistics Regression
   3. Artificial Neural Network (MLPClassifier from sklearn)
+  
 ## Conclusion
 
 ## Lessons taken away from this project
