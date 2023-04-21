@@ -26,11 +26,13 @@ How do we accurately predict stroke using the dataset? Which model is best for d
 ## Conclusion
 
 ## Lessons taken away from this project
-Handling imbalanced datasets using resampling methods
-Neural Networks, MLPClassifier from sklearn
-Logistic Regression from sklearn
-Collaborating using GitHub
-Concepts about Precision, Recall, and F1 Score
+* Handling imbalanced datasets using resampling methods
+* Neural Networks, MLPClassifier from sklearn
+* Random Forest
+* GridSearchCV
+* Logistic Regression from sklearn
+* Collaborating using GitHub
+* Concepts about Precision, Recall, and F1 Score
 
 ## References
 * https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download
