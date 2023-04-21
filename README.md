@@ -21,9 +21,9 @@ For detailed walkthrough, please view the source code in order from:
 4. Artificial Neural Network
 
 ## Contributors
-@ex0rx - EDA, Artificial Neural Network
-@zh_3444 - Data Preparation, EDA, Random Forest
-@min-ze - Logistic Regression
+  @ex0rx - EDA, Artificial Neural Network
+  @zh_3444 - Data Preparation, EDA, Random Forest
+  @min-ze - Logistic Regression
 
 This README briefly highlights what we have accomplished in this project.
 ## Problem Definition
