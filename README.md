@@ -56,4 +56,4 @@ With the results from random forest, we meet our objective of predicting stroke.
 * https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 * https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 * https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
-
+* https://scikit-learn.org/stable/modules/neural_networks_supervised.html
