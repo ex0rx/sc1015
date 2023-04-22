@@ -36,7 +36,7 @@ How do we accurately predict stroke using the dataset? Which model is best for d
   3. Artificial Neural Network (MLPClassifier from sklearn)
   
 ## Conclusion
-Comparing the different models, we can conclude that random forest is the best model for our problem since it has a high accuracy and f1 score, coupled with the lowest False Negative Rate. 
+Comparing the different models, we can conclude that [Random Forest](https://github.com/ex0rx/sc1015/blob/main/A133_Group6_RF.ipynb) is the best model for our problem since it has a high accuracy and f1 score, coupled with the lowest False Negative Rate. 
 
 With the results from random forest, we meet our objective of predicting stroke. Some other insights that we have from this project are as follows. We noticed that several unconventional data such as marriage status, work type and residential area can be useful in predicting stroke. Also, the dataset used does not include some variables that can be of significance such as family stroke history or number of hours spent exercising. 
 
